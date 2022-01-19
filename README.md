@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/Polly-BF/BoticaEkos">Finalizado 🚀</a><p>
 
-![banner](https://raw.githubusercontent.com/jordanruan/selfcare/main/design/mockup-desktop-selfcare.png)
+<!-- ![banner](https://raw.githubusercontent.com/jordanruan/selfcare/main/design/mockup-desktop-selfcare.png) -->
 
 ---
 
@@ -13,8 +13,6 @@
 Desafio de Front-End proposto pela <strong>Soul Code</strong>, EDTECH brasileira, para desenvolvedores melhorarem suas habilidades.
 
 - <a href="https://soulcodeacademy.org/">SoulCode</a>
-
-- <a href="https://devchallenge.com.br/challenges/5ec9a7fc10e94a38493d3910/details">DevChallenge</a>
 
 ## Techs 🛠
 
