@@ -5,15 +5,14 @@
 <p align="center"><a href="https://github.com/Polly-BF/BoticaEkos">Finalizado 🚀</a><p>
 
 <!-- ![banner](https://raw.githubusercontent.com/jordanruan/selfcare/main/design/mockup-desktop-selfcare.png) -->
-[banner](https://raw.github.com/Polly-BF/BoticaEkos/blob/main/Assets/contato.png)
-  
-
-
+[Index](https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/index.png)
+[Contato](https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/contato.png)
+ 
 ---
 
 ## SoulCode Challenge 💡
 
-Desafio de Front-End proposto pela <strong>Soul Code</strong>, EDTECH brasileira, para desenvolvedores melhorarem suas habilidades.
+Desafio de Front-End proposto pela <strong>SoulCode Academy</strong>, EDTECH brasileira, para desenvolvedores melhorarem suas habilidades.
 
 - <a href="https://soulcodeacademy.org/">SoulCode</a>
 
