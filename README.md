@@ -5,9 +5,9 @@
 <p align="center"><a href="https://github.com/Polly-BF/BoticaEkos">Finalizado 🚀</a><p>
 
 <!-- ![banner](https://raw.githubusercontent.com/jordanruan/selfcare/main/design/mockup-desktop-selfcare.png) -->
-<p>[Page - Home] (https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/index.png)</p>
+![banner](https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/index.png)
  
-<p>[Page - Contato] (https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/contato.png)</p>
+![banner](https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/contato.png)
  
 ---
 
