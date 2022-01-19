@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body,html{
+    height: 100%;
+    margin: 0;
+}
+
+.bg{
+    position: relative;
+    background-color: white;
+    /* background-image: url("Assets/bg2.png"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+.card{
+    /* border: groove 1em #e8f19f; */
+    border-radius: 2em;
+    /* box-shadow: inset 5em 5em #e8f19f; */
+}
+
+.img{
+    border-radius: 30%;
+    border: groove #e8f19f;
+}
+
+
+/* .bg:before{
+    content:'';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    opacity: 0.7;
+    background-image: url('https://fazendacapoava.com.br/wp-content/uploads/2019/09/natureza.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+} */
