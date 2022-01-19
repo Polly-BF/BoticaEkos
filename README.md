@@ -4,7 +4,6 @@
 
 <p align="center"><a href="https://github.com/Polly-BF/BoticaEkos">Finalizado 🚀</a><p>
 
-<!-- ![banner](https://raw.githubusercontent.com/jordanruan/selfcare/main/design/mockup-desktop-selfcare.png) -->
 ![banner](https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/index.png)
  
 ![banner](https://github.com/Polly-BF/BoticaEkos/blob/main/Assets/contato.png)
